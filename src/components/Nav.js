@@ -9,7 +9,7 @@ export default function Nav() {
         <Link to="/" className="nav-link">
           <h1 className="title">Charlie Charlie</h1>
         </Link>
-        <ul className="main-nav">
+        <ul className="nav-list">
           <li>
             <Link to="/about" className="nav-link">
                 About

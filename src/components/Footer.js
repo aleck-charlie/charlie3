@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <section>
             <footer>
-                Footer
+                portfolio v 3 - ice cream parlor
             </footer>
         </section>
     )
