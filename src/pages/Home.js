@@ -1,5 +1,6 @@
 import React from 'react';
 import '../assets/css/Home.css';
+import img from '../assets/img/icecream1.jpg'
 
 export default function Home(){
     // Float image left, text right
@@ -8,9 +9,10 @@ export default function Home(){
     return (
         <section>
             <div className="card">
-                <div className="nested">image</div>
-                <div className="nested">Charlie Charlie</div>
-           
+                <div className="nested">
+                <div className="home-img"><img src={img} alt="bowl of pink ice cream" /></div>
+                <div>Charlie Charlie</div>
+            </div>
             </div>
         </section>
     )

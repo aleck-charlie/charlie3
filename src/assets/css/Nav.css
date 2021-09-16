@@ -37,8 +37,8 @@
   -webkit-text-stroke: 1px #307473;
 }
 .nav-link:hover {
-    color: #FECEE9;
-    text-shadow: 2px 3px 0 #2F61EB;
+    color: #eb9fef;
+    text-shadow: 2px 3px 0 white;
 }
 
 /*  Add media queries
