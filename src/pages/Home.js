@@ -4,7 +4,7 @@ export default function Home(){
 
     return (
         <section>
-            <h1>Charlie Charlie</h1>
+            Charlie Charlie
         </section>
     )
 }
