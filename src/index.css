@@ -1,3 +1,37 @@
 body {
-  background: #ffcb3e ;
-  font-family: 'PT Sans Caption', sans-serif;}
+  background: #ffcb3e;
+  font-family: "PT Sans Caption", sans-serif;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  background: #ab5f8c;
+  padding: 20px;
+  width: fit-content;
+  margin: auto;
+  border-radius: 15px;
+  box-shadow: -5px 5px 0px 0.5px #cbff4d;
+}
+
+.nested {
+  display: flex;
+  flex-direction: row;
+  background: #fecee9;
+  width: fit-content;
+  margin: auto;
+  padding: 50px;
+  border-radius: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+      display: block;
+      background: #ab5f8c ;
+      padding: 20px;
+      max-width: fit-content;
+      margin: auto;
+      border-radius: 15px;
+      box-shadow: -5px 5px 0px .5px #cbff4d;
+  }
+}

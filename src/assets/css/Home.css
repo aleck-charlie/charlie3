@@ -1,24 +1,4 @@
-.card {
-    display: flex;
-    flex-direction: row;
-    background: #ab5f8c ;
-    padding: 20px;
-    width: fit-content;
-    margin: auto;
-    border-radius: 15px;
-    box-shadow: -5px 5px 0px .5px #cbff4d;
-}
 
-.nested {
-    display: flex;
-    flex-direction: row;
-    background: #fecee9;
-    width: fit-content;
-    margin: auto;
-    padding: 50px;
-    border-radius: 15px;
-
-}
 
 .home-img {
     padding-right: 10px;
@@ -38,17 +18,7 @@ img {
 }
 
 @media screen and (max-width: 768px) {
-    .card {
-        display: block;
-        background: #ab5f8c ;
-        padding: 20px;
-        max-width: fit-content;
-        margin: auto;
-        border-radius: 15px;
-        box-shadow: -5px 5px 0px .5px #cbff4d;
-    }
-    
-    .home-img {
+      .home-img {
         display: flex;
         justify-content: center;
         align-items: center;
