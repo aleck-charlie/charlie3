@@ -10,9 +10,9 @@
 .title {
   display: block;
   color: white;
-  font-size: 2.5rem;
-  text-shadow: 2px 3px 0 #ea2b1f;
-  -webkit-text-stroke: 1.25px #307473;
+  font-size: 3rem;
+  text-shadow: 2px 3px #1b065e;
+  -webkit-text-stroke: 0 #307473;
 }
 
 .title:hover {
@@ -29,16 +29,16 @@
 .nav-link {
   font-size: 2rem;
   font-weight: 700;
-  color: #e8e9eb !important;
+  color: #e8e9eb;
   text-decoration: none;
   align-items: center;
   padding: 0.5rem 1rem;
-  text-shadow: 3px 3px 0 #1b065e !important;
-  -webkit-text-stroke: 1px #307473 !important;
+  text-shadow: 3px 3px 0 #1b065e;
+  -webkit-text-stroke: .5px #612dee;
 }
 .nav-link:hover {
-    color: #eb9fef !important;
-    text-shadow: 2px 3px 0 white !important;
+    color: #eebbda;
+    text-shadow: 2px 3px 0 rgb(109, 34, 170);
 }
 
 /*  Add media queries
@@ -47,6 +47,25 @@ remove hover effect for mobile, replace with on click*/
 @media screen and (max-width: 768px) {
   .nav-container {
     background: #50c5b7;
+    width: fit-content;
   }
 
+  .nested {
+    display: inline-block;
+    margin: auto;
+    width: fit-content;
+
+  }
+
+  .nav-link {
+    -webkit-text-stroke: 0px;
+  }
+
+  .title {
+    display: block;
+    color: #ffffff;
+    font-size: 3rem;
+    text-shadow: 2px 3px #1b065e;
+    -webkit-text-stroke: 0 #307473;
+  }
 }
