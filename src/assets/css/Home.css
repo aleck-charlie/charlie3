@@ -1,7 +1,7 @@
 .card {
     display: flex;
     flex-direction: row;
-    background: #ab5f8c;
+    background: #ab5f8c !important;
     padding: 20px;
     max-width: fit-content;
     margin: auto;
@@ -33,3 +33,17 @@ img {
     width: 300px;
     border-radius: 50%;
 }
+
+@media screen and (max-width: 768px) {
+    .card {
+        display: block;
+        background: #ab5f8c !important;
+        padding: 20px;
+        max-width: fit-content;
+        margin: auto;
+        border-radius: 15px;
+        box-shadow: -5px 5px 0px .5px #cbff4d;
+    }
+    
+  
+  }

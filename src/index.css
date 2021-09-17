@@ -1,5 +1,4 @@
 body {
-  background: #ffcb3e;
-  margin: 0;
-  font-family: 'Cabin', sans-serif;
+  background: #ffcb3e !important;
+  font-family: 'Cabin', sans-serif, !important;
 }

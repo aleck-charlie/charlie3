@@ -5,7 +5,6 @@ import About from './pages/About';
 import Projects from './pages/Projects';
 import Nav from './components/Nav';
 import Footer from './components/Footer';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {

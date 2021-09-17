@@ -8,7 +8,7 @@
 }
 
 .title {
-  display: inline-block;
+  display: block;
   color: white;
   font-size: 2.5rem;
   text-shadow: 2px 3px 0 #ea2b1f;
@@ -29,18 +29,24 @@
 .nav-link {
   font-size: 2rem;
   font-weight: 700;
-  color: #e8e9eb;
+  color: #e8e9eb !important;
   text-decoration: none;
   align-items: center;
   padding: 0.5rem 1rem;
-  text-shadow: 3px 3px 0 #1b065e;
-  -webkit-text-stroke: 1px #307473;
+  text-shadow: 3px 3px 0 #1b065e !important;
+  -webkit-text-stroke: 1px #307473 !important;
 }
 .nav-link:hover {
-    color: #eb9fef;
-    text-shadow: 2px 3px 0 white;
+    color: #eb9fef !important;
+    text-shadow: 2px 3px 0 white !important;
 }
 
 /*  Add media queries
 Change font size, color, stack links. Higher contract hover effect
 remove hover effect for mobile, replace with on click*/
+@media screen and (max-width: 768px) {
+  .nav-container {
+    background: #50c5b7;
+  }
+
+}
