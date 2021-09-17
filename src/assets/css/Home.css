@@ -23,6 +23,12 @@
     padding-right: 10px;
     }
 
+.home-text {
+    padding:10px;
+    max-width: 500px;
+    margin: auto;
+}
+
 img {
     width: 300px;
     border-radius: 50%;

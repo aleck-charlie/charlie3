@@ -11,7 +11,7 @@ export default function Home(){
             <div className="card">
                 <div className="nested">
                 <div className="home-img"><img src={img} alt="bowl of pink ice cream" /></div>
-                <div>Charlie Charlie</div>
+                <div className="home-text">Peanut butter cups brownie bits peanut butter dark chocolate marshmallows. Peanut butter brownie bits chocolate chip cookie dough whipped cream, rainbow sprinkles strawberry strawberry mint chocolate chip coffee chocolate chips brownie bits. Dark chocolate chocolate syrup rocky road, whipped cream chocolate syrup kitkat strawberry.</div>
             </div>
             </div>
         </section>
