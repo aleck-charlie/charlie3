@@ -5,7 +5,7 @@ export default function About() {
     <section>
       <div className="main-card">
         <div className="nested">
-          <h1>Hello World!</h1>
+          <p></p>
         </div>
       </div>
     </section>

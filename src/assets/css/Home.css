@@ -1,5 +1,3 @@
-
-
 .home-img {
     padding-right: 10px;
     }
@@ -12,7 +10,7 @@
     margin: auto;
 }
 
-img {
+.splash-img {
     width: 300px;
     border-radius: 50%;
 }

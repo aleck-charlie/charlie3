@@ -8,7 +8,7 @@ export default function Home() {
       <div className="main-card">
         <div className="nested">
           <div className="home-img">
-            <img src={img} alt="bowl of pink ice cream" />
+            <img src={img} alt="bowl of pink ice cream" className="splash-img"/>
           </div>
           <div className="home-text">
             As a full stack web developer and creative I strive to create
