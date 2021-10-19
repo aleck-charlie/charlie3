@@ -15,9 +15,25 @@
   width: 300px;
   gap: 10px;
   background: white;
+
 }
 
 img {
   width: 250px;
   margin: auto;
+}
+
+p {
+  margin: 10px;
+  text-align: center;
+}
+
+a {
+  font-weight: 700;
+  color: #831c5a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e9da0f;
 }
