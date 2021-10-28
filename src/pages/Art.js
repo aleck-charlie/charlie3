@@ -1,4 +1,5 @@
 import React from "react";
+import "../assets/css/Projects.css";
 
 export default function Art() {
     return (
