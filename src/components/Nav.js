@@ -7,7 +7,7 @@ export default function Nav() {
     <section>
       <nav className="nav-container">
         <Link to="/" className="nav-link">
-          <h1 className="title">Charlie Charlie</h1>
+          <h1 className="title">Charlie Aleck</h1>
         </Link>
         <ul className="nav-list">
           <li>
