@@ -1,6 +1,6 @@
 import React from "react";
 import "../assets/css/Home.css";
-import img from "../assets/img/memyselfandi.jpg";
+import img from "../assets/img/me.jpg";
 
 export default function Home() {
   return (
