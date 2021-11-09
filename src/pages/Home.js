@@ -12,12 +12,7 @@ export default function Home() {
           </div>
           <div className="home-text">
             <p>
-          Full-stack Web Developer using a varied background as a mixed media artist, writer,
-commercial fisherman, welder and event coordinator to build engaging and polished projects
-from front to back. Recent graduate of Northwestern’s Full Stack program. Known as an
-effective communicator and team leader in high-stress situations. Lifelong learner that thrives in
-collaborative problem-solving, and aims to create impactful web applications with accessible
-mobile-first design.
+          Full-stack Web Developer using a background in mixed-media art, event coordinating, commercial fishing and a love for DIY to build engaging and polished projects from front to back. Recent graduate of Northwestern’s Full Stack program.
           </p>
           </div>
         </div>
