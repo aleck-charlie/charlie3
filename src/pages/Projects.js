@@ -9,11 +9,11 @@ export default function Project() {
       <div className="main-card">
         <div className="nested">
           <div className="grid-container">
-            {projects.map(({ id, image, title, desc, url, git }) => (
+            {projects.map(({ id, image, title, desc, tools, url, git }) => (
               <div className="grid-item" key={id}>
                   <img src={image} alt=""/>
                   <p>{title}</p>
-                  <p>{desc}</p>
+                  <p>{desc} using {tools}</p>
                   <p><Link to={url}>Deployed</Link></p>
                   <p><Link to={git}>Git</Link></p>
                 </div>
