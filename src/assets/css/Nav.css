@@ -47,8 +47,9 @@ Change font size, color, stack links. Higher contract hover effect
 remove hover effect for mobile, replace with on click*/
 @media screen and (max-width: 768px) {
   .nav-container {
+    display: flex;
+    flex-direction: column;
     background: #50c5b7;
-    width: fit-content;
   }
 
   .nested {
