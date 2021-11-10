@@ -16,7 +16,7 @@ export default function Project() {
                   </a>
                   <h1>{title}</h1>
                   <p>{desc} using {tools}</p>
-                  <p><Link to={url}>Deployed App</Link> | <Link to={git}>Github</Link></p>
+                  <p><a href={url}>Deployed App</a> | <a href={git}>Github</a></p>
                 </div>
             ))}
           </div>
