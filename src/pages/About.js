@@ -1,5 +1,4 @@
 import React from "react";
-import { Document } from 'react-pdf'
 import "../assets/css/Home.css";
 
 
@@ -10,9 +9,8 @@ export default function About() {
       <div className="main-card">
         <div className="nested">
           <p className="home-text">
-          <Document file="..." />
-          
-
+          <span role="img" aria-label="crane emoji">🏗️</span>
+          Under Construction! Oh boy
           </p>
         </div>
       </div>

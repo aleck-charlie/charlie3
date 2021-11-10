@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "../assets/css/Projects.css";
 import projects from "../data/projects";
 
