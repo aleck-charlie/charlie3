@@ -8,12 +8,19 @@ export default function Home() {
       <div className="main-card">
         <div className="nested">
           <div className="home-img">
-            <img src={img} alt="Charlie smiling" className="splash-img"/>
+            <img src={img} alt="Charlie smiling" className="splash-img" />
           </div>
           <div className="home-text">
             <p>
-          Full-stack Web Developer using a background in mixed-media art, event coordinating, commercial fishing and a love for DIY to build engaging and polished projects from front to back. Recent graduate of Northwestern’s Full Stack program.
-          </p>
+              Full-stack Web Developer using a background in mixed-media art,
+              event coordinating, commercial fishing and a love for DIY to build
+              engaging and polished projects from front to back. Recent graduate
+              of Northwestern’s Full Stack program.
+            </p>
+            <p></p>
+             <p> <span style={{ fontWeight: "bold" }}> Toolkit: </span>
+              React.js, Node.js, Javascript, JQuery, SQL, MongoDB, CSS and more
+              </p>
           </div>
         </div>
       </div>
