@@ -8,7 +8,7 @@ export default function Home() {
       <div className="main-card">
         <div className="nested">
           <div className="home-img">
-            <img src={img} alt="Charlie smiling" className="splash-img" />
+            <img src={img} alt="Charlie smiling" className="splash-img animate__animated animate__fadeIn" />
           </div>
           <div className="home-text">
             <p>
