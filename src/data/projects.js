@@ -35,7 +35,7 @@ const projects = [
     title: "Book Search",
     desc: "MERN stack search engine for finding new books by title or author",
     tools: "React.js, Node.js, Express, Google Books API",
-    url: "tps://ac-book-search.herokuapp.com/",
+    url: "https://ac-book-search.herokuapp.com/",
     git: "https://github.com/aleck-charlie/Book_Search_Engine"
   },
   {
@@ -53,7 +53,7 @@ const projects = [
     title: "Tech Blog",
     desc: "A CMS-style blog site where users can add, edit and view blog posts. Created with the MVC model in mind",
     tools: "Handlbars.js, Sequlize, Express.js, CSS",
-    url: "https://dashboard.heroku.com/apps/techblog-ca",
+    url: "https://techblog-ca.herokuapp.com/",
     git: "https://github.com/aleck-charlie/techblog",
   }
 ];
