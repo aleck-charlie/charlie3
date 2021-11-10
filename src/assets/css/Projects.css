@@ -20,6 +20,7 @@
 img {
   width: 250px;
   margin: auto;
+  border-radius: 5%;
 }
 
 h1 {
