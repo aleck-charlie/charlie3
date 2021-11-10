@@ -14,7 +14,6 @@
   display: grid;
   width: 300px;
   gap: 10px;
-  background: white;
 
 }
 
@@ -23,8 +22,12 @@ img {
   margin: auto;
 }
 
+h1 {
+  margin: auto;
+}
+
 p {
-  margin: 10px;
+  margin: auto;
   text-align: center;
 }
 

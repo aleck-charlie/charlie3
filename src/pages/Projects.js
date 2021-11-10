@@ -12,7 +12,7 @@ export default function Project() {
             {projects.map(({ id, image, title, desc, tools, url, git }) => (
               <div className="grid-item" key={id}>
                   <img src={image} alt=""/>
-                  <p>{title}</p>
+                  <h1>{title}</h1>
                   <p>{desc} using {tools}</p>
                   <p><Link to={url}>Deployed</Link></p>
                   <p><Link to={git}>Git</Link></p>
