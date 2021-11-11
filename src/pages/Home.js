@@ -14,7 +14,7 @@ export default function Home() {
             <p>
               Full-stack Web Developer using a background in mixed-media art, writing,
               event coordinating, and a vested interest in inclusion and more just practices to build
-              engaging and polished projects from front to back. Recent graduate
+              engaging and polished projects from front to back. Graduate
               of Northwestern’s Full Stack program.
             </p>
             <br />
