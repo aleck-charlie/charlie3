@@ -2,9 +2,7 @@
   width: 100%;
   max-width: 1240px;
   margin: auto;
-
   display: grid;
-
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
 }
@@ -23,14 +21,17 @@ img {
   border-radius: 5%;
 }
 
-h1 {
+.app-title {
+  font-weight: 700;
+  font-size: 1.25rem;
   margin: auto;
 }
 
 p {
   margin: auto;
-  text-align: left;
+  text-align: center;
 }
+
 
 a {
   font-weight: 700;
@@ -38,8 +39,14 @@ a {
   text-decoration: none;
 }
 
+
 a:hover {
-  color: #e9da0f;
+  text-decoration: underline;
+}
+
+img:hover {
+  transform: translateY(-4px);
+  transition: transform 0.2s ease 0s;
 }
 
 @media screen and (max-width: 768px) {

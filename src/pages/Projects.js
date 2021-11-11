@@ -13,7 +13,7 @@ export default function Project() {
                 <a href={url}>
                   <img src={image} alt=""/>
                   </a>
-                  <h1>{title}</h1>
+                  <div className="app-title">{title}</div>
                   <p>{desc} using {tools}</p>
                   <p><a href={url}>Deployed App</a> | <a href={git}>Github</a></p>
                 </div>

@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     image:
-      "https://res.cloudinary.com/dvhx34ziw/image/upload/v1632621811/starcrossed_a4pfj8.png",
+      "https://res.cloudinary.com/dvhx34ziw/image/upload/c_scale,w_250/v1632621811/starcrossed_a4pfj8.png",
     title: "Star-Crossed",
     desc: "A sci-fi take on dating apps",
     tools: "Handlebars, SQL, Javascript, CSS",
