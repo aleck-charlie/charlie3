@@ -23,8 +23,8 @@ export default function Home() {
               </p>
             <br />
             <span className="social">
-            <SocialIcon url="https://linkedin.com/in/charliealeck" target="_blank" bgColor="#831c5a" />
-            <SocialIcon url="https://github.com/aleck-charlie" target="_blank" bgColor="#831c5a"  />
+            <SocialIcon url="https://linkedin.com/in/charliealeck" rel="noopener noreferrer" target="_blank" bgColor="#831c5a" />
+            <SocialIcon url="https://github.com/aleck-charlie" rel="noopener noreferrer" target="_blank" bgColor="#831c5a"  />
             <SocialIcon url="mailto: aleckcharlie@gmail.com" bgColor="#831c5a" />
             </span>
           </div>
