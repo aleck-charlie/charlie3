@@ -1,6 +1,5 @@
 import React from "react";
 import "../assets/css/Home.css";
-import img from "../assets/img/me.jpg";
 
 export default function Home() {
   return (
@@ -8,7 +7,7 @@ export default function Home() {
       <div className="main-card">
         <div className="nested">
           <div className="home-img">
-            <img src={img} alt="Charlie smiling" className="splash-img animate__animated animate__fadeIn" />
+            <img src="https://res.cloudinary.com/dvhx34ziw/image/upload/v1636650153/IMG_8160_ocai7i.jpg" alt="Charlie smiling" className="splash-img animate__animated animate__fadeIn" />
           </div>
           <div className="home-text">
             <p>
