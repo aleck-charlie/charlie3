@@ -12,7 +12,8 @@
 
 .social {
     display: flex;
-    justify-content: space-evenly;}
+    justify-content: space-evenly;
+}
 
 .splash-img {
     width: 300px;

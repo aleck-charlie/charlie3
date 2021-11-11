@@ -32,16 +32,10 @@ p {
   text-align: center;
 }
 
-
 a {
   font-weight: 700;
   color: #831c5a;
   text-decoration: none;
-}
-
-
-a:hover {
-  text-decoration: underline;
 }
 
 img:hover {
