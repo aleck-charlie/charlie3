@@ -19,7 +19,7 @@ export default function Home() {
             </p>
             <br />
              <p> <span style={{ fontWeight: "bold" }}> Toolkit: </span>
-              React.js, Node.js, Javascript, JQuery, SQL, MongoDB, CSS and more
+              React.js, Node.js, Express.js, Javascript, CSS, JQuery, SQL, MongoDB, GraphQL,and more
               </p>
             <br />
             <span className="social">
