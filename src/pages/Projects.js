@@ -11,7 +11,7 @@ export default function Project() {
             {projects.map(({ id, image, title, desc, tools, url, git }) => (
               <div className="grid-item" key={id}>
                 <a href={url}>
-                  <img src={image} alt=""/>
+                  <img src={image} alt="" className="project-img"/>
                   </a>
                   <div className="app-title">{title}</div>
                   <p>{desc} using {tools}</p>
