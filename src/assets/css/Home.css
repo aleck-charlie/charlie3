@@ -10,6 +10,10 @@
     margin: auto;
 }
 
+.social {
+    display: flex;
+    justify-content: space-evenly;}
+
 .splash-img {
     width: 300px;
     border-radius: 50%;
