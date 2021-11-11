@@ -12,8 +12,8 @@ export default function Home() {
           </div>
           <div className="home-text">
             <p>
-              Full-stack Web Developer using a background in mixed-media art,
-              event coordinating, commercial fishing and a love for DIY to build
+              Full-stack Web Developer using a background in mixed-media art, writing,
+              event coordinating, and a vested interest in inclusion and more just practices to build
               engaging and polished projects from front to back. Recent graduate
               of Northwestern’s Full Stack program.
             </p>
