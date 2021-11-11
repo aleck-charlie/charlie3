@@ -13,9 +13,7 @@ export default function Home() {
           <div className="home-text">
             <p>
               Full-stack Web Developer using a background in mixed-media art, writing,
-              event coordinating, and a vested interest in inclusion and more just practices to build
-              engaging and polished projects from front to back. Graduate
-              of Northwestern’s Full Stack program.
+              event coordination and collaborative project building to build engaging and polished projects from front to back. Graduate of Northwestern University's Full Stack program.
             </p>
             <br />
              <p> <span style={{ fontWeight: "bold" }}> Toolkit: </span>
