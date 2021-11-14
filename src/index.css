@@ -3,6 +3,17 @@ body {
   font-family: "PT Sans Caption", sans-serif;
 }
 
+p {
+  margin: auto;
+  line-height: 1.5em;
+}
+
+a {
+  font-weight: 700;
+  color: #831c5a;
+  text-decoration: none;
+}
+
 .main-card {
   display: flex;
   flex-direction: row;

@@ -24,8 +24,6 @@
       .home-img {
         display: flex;
         justify-content: center;
-        align-items: center;
-        padding: 20px;
-        width: min-content;
+        padding: 5px;
     }
   }

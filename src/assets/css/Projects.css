@@ -27,15 +27,6 @@
   margin: auto;
 }
 
-p {
-  margin: auto;
-}
-
-a {
-  font-weight: 700;
-  color: #831c5a;
-  text-decoration: none;
-}
 
 .project-img:hover {
   transform: translateY(-4px);
