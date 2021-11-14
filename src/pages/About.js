@@ -7,7 +7,7 @@ export default function About() {
       <div className="main-card">
         <div className="nested">
           <p className="home-text">
-            Charlie Aleck (they/them) is a queer Indigenous Seattle-born and
+            Charlie Aleck (they/them) is a Seattle-born and
             Chicago-based artist, writer, and web developer with a background
             that encompasses illustration, community art, event coordinating,
             welding, and commercial fishing in Alaska.
@@ -28,7 +28,7 @@ export default function About() {
             tools, finding shared stories and trusting their instinct.
             <br />
             <br />
-            Resume | Contact
+            <a href="https://docs.google.com/document/d/1zssz-r2Og18BkP3a6k8Wp2i1cd3qWnCoMf9ByB3kINM/edit?usp=sharing">Resume</a> | <a href="mailto:aleckcharlie@gmail.com">Contact</a>
           </p>
         </div>
       </div>
