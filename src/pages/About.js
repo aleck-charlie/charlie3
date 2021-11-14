@@ -15,10 +15,9 @@ export default function About() {
             <br />
             A recent graduate of Northwestern University's Full Stack
             program, they continue to create applications with a focus on clean
-            coding practices and user-intuitive design. Their portfolio
-            currently highlights projects built with React.js, Node.js,
+            coding practices and user-intuitive design. Their portfolio highlights projects built with React.js, Node.js,
             Javascript, CSS3, HTML5, jQuery, Express.js, SQL, MongoDB, and
-            GraphQL. They are currently deepening their skills in Python, SCSS, UI/UX design and more.
+            GraphQL. They are building on their skills with Python, SCSS, UI/UX design and more.
             <br />
             <br />
             As an enrolled member of Tla-o-qui-aht First Nations, they are actively involved in Indigenous language revitalization and seek to uplift Indigenous culture and communities in art, writing and mutual aid.
