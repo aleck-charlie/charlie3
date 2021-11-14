@@ -9,7 +9,7 @@ export default function About() {
           <p className="home-text">
             Charlie Aleck (they/them) is a Seattle-born and
             Chicago-based artist, writer, and web developer with a background
-            that encompasses illustration, community art, event coordinating,
+            that spans illustration, community art, event coordinating,
             welding, and commercial fishing in Alaska.
             <br />
             <br />
