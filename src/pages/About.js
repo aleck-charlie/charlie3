@@ -20,7 +20,7 @@ export default function About() {
             GraphQL. They are building on their skills with Python, SCSS, UI/UX design and more.
             <br />
             <br />
-            As an enrolled member of Tla-o-qui-aht First Nations, they are actively involved in Indigenous language revitalization and seek to uplift Indigenous culture and communities in art, writing and mutual aid.
+            As an enrolled member of Tla-o-qui-aht First Nations, they seek to uplift Indigenous culture and communities in art, writing and mutual aid.
             <br />
             <br />
             They find they create their best work while tinkering with new
