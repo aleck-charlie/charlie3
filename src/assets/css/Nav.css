@@ -17,15 +17,15 @@
 }
 
 .title:hover {
-    color: #d0ff00;
-    text-shadow: 2px 3px 0 #1b065e;
-    -webkit-text-stroke: .5px #612dee;
+  color: #d0ff00;
+  text-shadow: 2px 3px 0 #1b065e;
+  -webkit-text-stroke: 0.5px #612dee;
 }
 .nav-list {
-    list-style: none;
-    display: flex;
-   -webkit-text-stroke: 1.25px #307473;
-   padding: 2rem;
+  list-style: none;
+  display: flex;
+  -webkit-text-stroke: 1.25px #307473;
+  padding: 2rem;
 }
 .nav-link {
   font-size: 2rem;
@@ -35,11 +35,11 @@
   align-items: center;
   padding: 0.5rem 1rem;
   text-shadow: 3px 3px 0 #1b065e;
-  -webkit-text-stroke: .5px #612dee;
+  -webkit-text-stroke: 0.5px #612dee;
 }
 .nav-link:hover {
-    color: #d0ff00;
-    text-shadow: 3px 3px 0 #1b065e ; 
+  color: #d0ff00;
+  text-shadow: 3px 3px 0 #1b065e;
 }
 
 /*  Add media queries
@@ -56,7 +56,12 @@ remove hover effect for mobile, replace with on click*/
     display: inline-block;
     margin: auto;
     width: fit-content;
+  }
 
+  .nav-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .nav-link {
