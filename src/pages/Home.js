@@ -12,11 +12,11 @@ export default function Home() {
           </div>
           <div className="home-text">
             <p>
-              Full-stack Web Developer using a background in mixed-media art, writing,
+              Full-stack Web Developer and Freelance Illustrator using a background in mixed-media art, writing,
               event coordination and collaborative project building to build engaging and polished projects from front to back. Graduate of Northwestern University's Full Stack program.
             </p>
             <br />
-             <p> <span style={{ fontWeight: "bold" }}> Toolkit: </span>
+             <p> <span style={{ fontWeight: "bold" }}> Dev Toolkit: </span>
               React.js, Node.js, Express.js, Javascript, HTML5, CSS3, jQuery, SQL, MongoDB, GraphQL, Command Line, Git, and Heroku
               </p>
             <br />

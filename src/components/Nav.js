@@ -11,13 +11,18 @@ export default function Nav() {
         </Link>
         <ul className="nav-list">
           <li>
-            <Link to="/about" className="nav-link">
-                About
+          <Link to="/projects" className="nav-link">
+                Projects
             </Link>
           </li>
           <li>
-          <Link to="/projects" className="nav-link">
-                Projects
+            <Link to="/art" className="nav-link">
+                Illustration
+            </Link>
+          </li>
+          <li>
+            <Link to="/about" className="nav-link">
+                About
             </Link>
           </li>
         </ul>

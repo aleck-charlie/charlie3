@@ -17,9 +17,9 @@
 }
 
 .title:hover {
-    color: #d1ff06;
-    text-shadow: 2px 3px 0 white;
-    -webkit-text-stroke: 1.25px #307473;
+    color: #d0ff00;
+    text-shadow: 2px 3px 0 #1b065e;
+    -webkit-text-stroke: .5px #612dee;
 }
 .nav-list {
     list-style: none;
@@ -38,7 +38,7 @@
   -webkit-text-stroke: .5px #612dee;
 }
 .nav-link:hover {
-    color: #d1ff06;
+    color: #d0ff00;
     text-shadow: 3px 3px 0 #1b065e ; 
 }
 
