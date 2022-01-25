@@ -5,6 +5,11 @@ const gallery = [
     tag: "self-portrait"
   },
   {
+    id: 111,
+    src: "https://res.cloudinary.com/dvhx34ziw/image/upload/v1643154967/Stillness_nnki2f.jpg", 
+    tag: "stillness"
+  },
+  {
     id: 2,
     src: "https://res.cloudinary.com/dvhx34ziw/image/upload/v1640911594/Untitled_Artwork_1_fqiday.jpg",
     tag: "skiff bone"
