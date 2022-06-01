@@ -53,11 +53,11 @@ const gallery = [
     src: "https://res.cloudinary.com/dvhx34ziw/image/upload/v1640893557/Arnold_Paz__jififs.png",
     tag: "arnold paz"
   },
-  { 
-    id: 11,
-    src: "https://res.cloudinary.com/dvhx34ziw/image/upload/v1640893707/Overseer_rdkpkz.png",
-    tag: "beyond"
-  },
+  // { 
+  //   id: 11,
+  //   src: "https://res.cloudinary.com/dvhx34ziw/image/upload/v1640893707/Overseer_rdkpkz.png",
+  //   tag: "beyond"
+  // },
   {
     id: 12,
     src: "https://res.cloudinary.com/dvhx34ziw/image/upload/v1640892505/whale_esa6vz.jpg",
