@@ -1,18 +1,16 @@
 .grid-container {
-  width: 100%;
-  max-width: 1240px;
-  margin: auto;
+  width: 100%; 
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: auto;
+  align-items: stretch;
 }
 
-.grid-item {
+.grid-project-item {
   display: grid;
-  width: 275px;
-  gap: 10px;
-  margin: 15px;
-  margin-bottom: 24px;
+  width: 300px;
+  grid-gap: 10px;
+  margin: 20px;
+  justify-items: center;
 }
 
 .project-img {
@@ -27,6 +25,11 @@
   margin: auto;
 }
 
+p {
+  margin: auto;
+  line-height: 1.5em;
+  text-align: justify;
+}
 
 .project-img:hover {
   transform: translateY(-4px);

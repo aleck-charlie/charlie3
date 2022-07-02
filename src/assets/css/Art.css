@@ -20,11 +20,6 @@
     padding: 5px;
 }
 
-.gallery-img:hover {
-    transform: scale(2.15);
-    transition: transform .25s;
-}
-
 @media screen and (max-width: 768px) {
     .grid-gallery {
         display: flex;

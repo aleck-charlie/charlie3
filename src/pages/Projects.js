@@ -9,7 +9,7 @@ export default function Project() {
         <div className="nested">
           <div className="grid-container animate__animated animate__fadeIn">
             {projects.map(({ id, image, title, desc, tools, url, git }) => (
-              <div className="grid-item" key={id}>
+              <div className="grid-project-item" key={id}>
                 <a href={url}>
                   <img src={image} alt="" className="project-img"/>
                   </a>
